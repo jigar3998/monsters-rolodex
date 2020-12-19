@@ -4,7 +4,7 @@ A simple project to implement Search mechanism, and divide the project into reus
 
 # how to get Started
 
--Clone the repository.
--Open in Code Editor.
--In terminal type : npm start
+-Clone the repository.  
+-Open in Code Editor.  
+-In terminal type : npm start  
 
